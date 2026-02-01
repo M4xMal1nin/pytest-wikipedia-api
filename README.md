@@ -1,4 +1,4 @@
-<h1>Мой проект Wikipedia API Autotests (pytest + requests) 🚀</h1>
+<h1>Мой проект по автотестированию API Wikipedia (pytest + requests) 🚀</h1>
 
 <p>
     Я создал Pet-проект с API-автотестами для Wikipedia📚.
